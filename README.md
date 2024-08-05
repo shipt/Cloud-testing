@@ -8,9 +8,7 @@ The Cloud Security Test Repository is a comprehensive and versatile resource des
 
 - **Security Assessment Tools**: A curated list of open-source and proprietary tools to perform security assessments on various cloud platforms such as AWS, Azure, and Google Cloud.
 - **Configuration Best Practices**: Sample configurations and templates that follow industry best practices for securing cloud resources, including IAM policies, network settings, and encryption.
-- **Automated Testing Scripts**: To automate standard security checks and audits, ensuring continuous compliance and proactive vulnerability management.
-- **Threat Modeling and Risk Analysis**: Resources for conducting threat modeling and risk analysis to anticipate potential security threats and develop robust mitigation strategies.
-- **Incident Response Playbooks**: Detailed playbooks and guides for responding to security incidents in cloud environments, including detection, containment, eradication, and recovery procedures.
+- **Automated Testing Scripts**: Automate standard security checks and audits to ensure continuous compliance and proactive vulnerability management.
 - **Compliance Checklists**: Guidelines for adhering to regulatory and compliance standards such as GDPR, HIPAA, and SOC 2 in cloud deployments.
 - **Educational Resources**: Tutorials, webinars, and documentation to educate team members on cloud security principles, best practices, and emerging threats.
 
