@@ -2,7 +2,7 @@
 
 ## Description
 
-The Cloud Security Test Repository is a comprehensive and versatile resource designed for developers, security professionals, and system administrators to evaluate and enhance the security posture of their cloud environments. This repository offers tools, scripts, configurations, and documentation to identify, mitigate, and prevent security vulnerabilities in cloud infrastructure and services.
+The Cloud Security Test Repository is a go-to resource for anyone looking to improve the security of their cloud environments. It provides a wide range of tools and best practices to help users proactively protect their cloud infrastructure from evolving security threats. This repository offers tools, scripts, configurations, and documentation to identify, mitigate, and prevent cloud infrastructure and services security vulnerabilities.
 
 ## Features
 
@@ -42,4 +42,3 @@ This repository is licensed under the MIT License. See the `LICENSE` file for mo
 
 ---
 
-The Cloud Security Test Repository is a go-to resource for anyone looking to improve the security of their cloud environments. Providing a wide range of tools and best practices helps users proactively protect their cloud infrastructure from evolving security threats.
